@@ -1,3 +1,3 @@
 # Webcrawler_property
 
-## web scraping to retrieve information from Zoopla and Rightmove
+### The goal is to use web scraping to retrieve information from Zoopla and Rightmove
